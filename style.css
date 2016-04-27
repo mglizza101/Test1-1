@@ -1,0 +1,21 @@
+
+* {
+	font-family: 'Fjalla One', sans-serif;
+}
+header {
+	border: 2px solid red;
+	border-width: 2px;
+	border-color: #000;
+
+	padding-left: 50px;
+	margin-bottom: 100px;
+}
+
+
+
+.content {
+	border: 2px solid #ff8080;
+}
+.tester {
+	border-color: #3385ff;
+}
